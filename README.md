@@ -1,2 +1,2 @@
 # gh-actions-npm-audit
- Test npm-audit
+ Test npm-audit.
